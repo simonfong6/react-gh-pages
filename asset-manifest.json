@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.0b8cb291.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.0b8cb291.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.4e57b166.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.60aedd33.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.60aedd33.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.af17ebc1.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.af17ebc1.js.map",
     "static/js/2.34d74ee6.chunk.js": "/react-gh-pages/static/js/2.34d74ee6.chunk.js",
     "static/js/2.34d74ee6.chunk.js.map": "/react-gh-pages/static/js/2.34d74ee6.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.43e54cf8ca98af448357486ce58743d8.js": "/react-gh-pages/precache-manifest.43e54cf8ca98af448357486ce58743d8.js",
+    "precache-manifest.89b7b4f787cf664f38619f65eeb5d6ab.js": "/react-gh-pages/precache-manifest.89b7b4f787cf664f38619f65eeb5d6ab.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.4e57b166.chunk.css.map": "/react-gh-pages/static/css/main.4e57b166.chunk.css.map",
     "static/js/2.34d74ee6.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.34d74ee6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "static/media/wushiland-jasmine-green-milk-tea-tiny-boba.jpg": "/react-gh-pages/static/media/wushiland-jasmine-green-milk-tea-tiny-boba.8f43ad82.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.af17ebc1.js",
     "static/js/2.34d74ee6.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b8cb291.chunk.js"
+    "static/css/main.4e57b166.chunk.css",
+    "static/js/main.60aedd33.chunk.js"
   ]
 }
