@@ -3,7 +3,6 @@ import './Drink.css';
 import image from './wushiland-jasmine-green-milk-tea-tiny-boba.jpg';
 
 class Drink extends React.Component {
-
   constructor(props) {
     super(props);
 
