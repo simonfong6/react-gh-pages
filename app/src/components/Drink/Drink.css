@@ -1,5 +1,15 @@
-.Drink {
-  text-align: center;
+.border {
+  border: 0.1rem;
   border-style: dashed;
   border-color: red;
+}
+
+.drink {
+  text-align: center;
+  width: 25%;
+  margin: auto;
+}
+
+.drink-thumbnail {
+
 }
