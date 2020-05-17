@@ -7,17 +7,23 @@ class Drink extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = {
-      image: image
-    };
+    this.state = { image };
   }
 
   render() {
+    const { image: drinkImage } = this.state;
+
     return (
       <div>
         <div className="drink border">
-          <img className="drink-thumbnail" src={this.state.image} />
-          <h2 className="">Jasmine Green Milk Tea</h2>
+          <img
+            className="drink-thumbnail border"
+            src={drinkImage}
+            alt="Drink"
+          />
+          <h2 className="border">
+            Jasmine Green Milk Tea
+          </h2>
           boba
         </div>
       </div>
